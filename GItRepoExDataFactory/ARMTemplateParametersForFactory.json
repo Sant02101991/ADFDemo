@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "GItRepoExDataFactory"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
