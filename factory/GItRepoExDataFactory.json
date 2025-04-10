@@ -1,0 +1,9 @@
+{
+	"name": "GItRepoExDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee860ab7-71e8-4832-991c-f95cd192564c",
+		"tenantId": "507a170f-a22a-4f32-a5db-ea4728cf5db5"
+	}
+}
